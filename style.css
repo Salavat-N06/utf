@@ -1,0 +1,19 @@
+body{
+    background-image: url(my.jpg)  ;
+
+
+
+}
+p{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.special_paragraph{
+    margin-bottom: 30px;
+}
+.str3{ 
+    margin-bottom: 30px;
+}
+.str4{
+    margin-bottom: 30px;
+}
